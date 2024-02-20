@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=안녕하세요.이하현입니다!&color=random&fontsize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=안녕하세요.이하현입니다!&color=random&fontsize=60)
 
 <div align="center">
 
