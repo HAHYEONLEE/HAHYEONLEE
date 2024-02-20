@@ -2,9 +2,9 @@
 
 <br>
 
-
+<div align="center">
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div>
     <a href="https://www.instagram.com/ha__hyeon_/">
         <img src="https://img.shields.io/badge/Instagram-004088?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
@@ -14,7 +14,7 @@
 </div><br>
 
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
+<div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <br>
 </div><br>
+</div>
 
 
 
