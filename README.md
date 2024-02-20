@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=안녕하세요.이하현입니다!&color=random&fontsize=80)
 
 <div align="center">
+    
 ## 📞 Contact 📞
 <div>
     <a href="https://www.instagram.com/ha__hyeon_/">
@@ -13,9 +14,8 @@
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAHYEONLEE&count_bg=%23C27EB6&title_bg=%23DAD8D8&icon=github.svg&icon_color=%23000000&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAHYEONLEE)]
-    
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE&show_icons=true&theme=graywhite)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE)](https://github.com/anuraghazra/github-readme-stats)
+   
 
 
 
