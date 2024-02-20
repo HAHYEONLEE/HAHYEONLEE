@@ -4,10 +4,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE&hide=contribs,prs&show_icons=true&theme=graywhite)
 
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAHYEONLEE&count_bg=%23C27EB6&title_bg=%23DAD8D8&icon=github.svg&icon_color=%23000000&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
     
-# 📞 Contact 📞
+# 📞 ME 📞
 <div>
+    <a href="[mailto:hahyeonD819@gmail.com](https://www.notion.so/hahyeon/Lee-hahyeon-bc91a4875adc48b78c651533ed616ac8)">
+        <img src="https://img.shields.io/badge/Notion-FF9E0F?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
     <a href="https://www.instagram.com/ha__hyeon_/">
         <img src="https://img.shields.io/badge/Instagram-004088?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
