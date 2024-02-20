@@ -3,12 +3,12 @@
 <br>
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:center">
     <a href="https://www.instagram.com/ha__hyeon_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-004088?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:hahyeonD819@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
 
