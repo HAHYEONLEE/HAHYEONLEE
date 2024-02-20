@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=안녕하세요.이하현입니다!&color=random&fontsize=70)
 
 <div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAHYEONLEE&count_bg=%23C27EB6&title_bg=%23DAD8D8&icon=github.svg&icon_color=%23000000&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
     
-## 📞 Contact 📞
+# 📞 Contact 📞
 <div>
     <a href="https://www.instagram.com/ha__hyeon_/">
         <img src="https://img.shields.io/badge/Instagram-004088?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -12,14 +16,7 @@
     </a>
 </div>
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAHYEONLEE&count_bg=%23C27EB6&title_bg=%23DAD8D8&icon=github.svg&icon_color=%23000000&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE&hide=contribs,prs&show_icons=true&theme=graywhite)
-   
-
-
-
-## 🔨 Once I've used 🔨
+# 🔨 Once I've used 🔨
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
