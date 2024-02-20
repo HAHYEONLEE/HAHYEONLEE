@@ -4,8 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHYEONLEE&hide=contribs,prs&show_icons=true&theme=graywhite)
 
+<br>
     
-# 📞 ME 📞
+###📞 ME 📞
 <div>
     <a href="[mailto:hahyeonD819@gmail.com](https://www.notion.so/hahyeon/Lee-hahyeon-bc91a4875adc48b78c651533ed616ac8)">
         <img src="https://img.shields.io/badge/Notion-FF9E0F?style=for-the-badge&logo=Notion&logoColor=white">
@@ -17,8 +18,10 @@
         <img src="https://img.shields.io/badge/Instagram-004088?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
+
+<br>
     
-# 🔨 Once I've used 🔨
+### 🔨 Once I've used 🔨
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
