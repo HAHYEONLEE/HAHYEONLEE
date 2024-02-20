@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=안녕하세요.이하현입니다!&color=random&fontsize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=WELCOME&fontsize=90&fontAlignY=40&desc=hahyeon's%20Github&descAlign=65&descSize=24&descAlignY=55&color=F8E2CF&fontColor=E3A6AE)
 
 <div align="center">
 
