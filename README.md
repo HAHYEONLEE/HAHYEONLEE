@@ -8,7 +8,7 @@
     
 ### 📞 ME 📞
 <div>
-    <a href="[https://www.notion.so/hahyeon/Lee-hahyeon-bc91a4875adc48b78c651533ed616ac8](https://www.notion.so/hahyeon/Lee-hahyeon-bc91a4875adc48b78c651533ed616ac8)">
+    <a href="https://www.notion.so/hahyeon/Lee-hahyeon-bc91a4875adc48b78c651533ed616ac8">
         <img src="https://img.shields.io/badge/Notion-FF9E0F?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
     <a href="mailto:hahyeonD819@gmail.com">
